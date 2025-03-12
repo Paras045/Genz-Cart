@@ -68,7 +68,7 @@ const About = () => {
       <footer className="border-t">
         <div className="container mx-auto px-4 py-8 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Buytrix. All rights reserved.
+            &copy; {new Date().getFullYear()} Genz Cart. All rights reserved.
           </p>
         </div>
       </footer>
