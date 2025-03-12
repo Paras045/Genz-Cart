@@ -20,7 +20,7 @@ const About = () => {
             <div>
               <h2 className="text-xl font-medium">Our Story</h2>
               <p className="mt-4 text-muted-foreground">
-                Founded with a vision to provide exceptional quality and design, Buytrix has grown from a small startup to a leading e-commerce destination. We believe in crafting products that seamlessly blend form and function.
+                Founded with a vision to provide exceptional quality and design, GenzCart has grown from a small startup to a leading e-commerce destination. We believe in crafting products that seamlessly blend form and function.
               </p>
             </div>
             
