@@ -14,6 +14,7 @@ interface ButtonCustomProps
   size?: "default" | "sm" | "lg" | "icon" | "full";
   icon?: React.ReactNode;
   loading?: boolean;
+  asChild?: boolean;
 }
 
 const ButtonCustom = React.forwardRef<HTMLButtonElement, ButtonCustomProps>(
